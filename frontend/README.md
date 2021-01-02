@@ -1,3 +1,7 @@
+# About git repo
+Please note that both frontend and backend are in the same repo
+when git, go to root folder.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
